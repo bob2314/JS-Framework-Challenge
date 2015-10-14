@@ -1,8 +1,4 @@
-# JS-Framework-Challenge
-JS Framework Challenge using the Twitter API.
-
-
-# BloomNation JS Twitter API Challenge
+# JS Framework Challenge using the Twitter API.
 
 ## Goals
 
