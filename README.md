@@ -36,4 +36,4 @@ This challenge should take a candidate no more than 3 hours to complete.
   1. Local environment setup instructions
   1. Basic Heroku deployment instructions
   1. Test suite setup/execution instructions (if applicable) 
-1. Email links to your **public GitHub** repo and **live Heroku** application to [dev@bloomnation.com](mailto:dev@bloomnation.com)
+1. Email links to your **public GitHub** repo and **live Heroku** application to [bob@bloomnation.com](mailto:bob@bloomnation.com)
